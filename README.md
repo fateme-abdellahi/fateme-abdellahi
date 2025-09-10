@@ -5,7 +5,7 @@
 ---
 
 ## 📚 Currently Learning  
-- ⚙️ Backend frameworks: Django REST, FastAPI  
+- ⚙️ Backend frameworks: Django REST Framework, FastAPI  
 - 🐳 Containerization with Docker  
 - 🗄️ Database: PostgreSQL
 - 🧪 Testing: Pytest
